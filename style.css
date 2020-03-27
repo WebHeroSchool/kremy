@@ -1,0 +1,83 @@
+header{
+  background: aliceblue;
+}
+.header__title {
+  text-align: center;
+  font-family: cursive;
+  color: purple;
+}
+.header__subtitle {
+  text-align: center;
+  font-family: cursive;
+  font-weight: bold;
+  color: red;
+  border-style: dashed;
+  border-color: purple;
+  border-width: 5px;
+}
+.header__subject {
+  text-align: center;
+  font-family: cursive;
+  color: purple;
+  text-decoration-line: underline;
+  text-decoration-style: double;
+}
+.header__info {
+  text-align: center;
+}
+.btn {
+  font-family: Sans-Serif;
+  color: red;
+  cursor: pointer;
+}
+.header__img {
+  display: block;
+  margin: auto;
+}
+section {
+  background: lavender;
+}
+.section__title {
+  text-align: center;
+  font-family: cursive;
+}
+.section__tbl {
+  width: 500px;
+}
+.tbl__col {
+  width: 300px;
+  text-align: center;
+}
+.section__text {
+  font-family: Sans-Serif;
+  font-size: 2.5ex;
+  border-style: dashed;
+  border-color: yellow;
+}
+.section__info {
+  text-align: center;
+}
+aside {
+  background-color: #90EE90;
+}
+.aside__text {
+  text-align: center;
+  font-weight: bold;
+}
+.aside__info {
+  text-align: center;
+}
+.aside__text_small {
+  font-style: italic;
+  font-size: 0.5em;
+  font-weight: lighter;
+}
+footer {
+  background-color: #FAFAD2;
+}
+.footer__info {
+  font-family: Sans-Serif;
+}
+.footer__text {
+  font-style: italic;
+}
